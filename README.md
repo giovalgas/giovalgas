@@ -15,14 +15,14 @@ Passion for building robust and scalable systems 🚀🚀
 
 <picture>
   <source
-    srcset="https://github-readme-stats-git-master-giovani-valgas-projects.vercel.app/api?username=giovalgas&show_icons=true&theme=catppuccin_mocha"
+    srcset="https://github-readme-stats-git-master-giovani-valgas-projects.vercel.app/api?username=giovalgas&show_icons=true&theme=catppuccin_mocha&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-git-master-giovani-valgas-projects.vercel.app/api?username=giovalgas&show_icons=true&theme=catppuccin_latte"
+    srcset="https://github-readme-stats-git-master-giovani-valgas-projects.vercel.app/api?username=giovalgas&show_icons=true&theme=catppuccin_latte&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-git-master-giovani-valgas-projects.vercel.app/api?username=giovalgas&show_icons=true" />
+  <img src="https://github-readme-stats-git-master-giovani-valgas-projects.vercel.app/api?username=giovalgas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
 <picture>
   <source
