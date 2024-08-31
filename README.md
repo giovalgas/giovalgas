@@ -8,10 +8,9 @@ Hi! I’m Giovani Valgas, a dedicated Backend Developer mainly working with Spri
 Passion for building robust and scalable systems 🚀🚀
 
 ## ☎️ Contact
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&colorA=363a4f&colorB=b7bdf8&logoColor=b7bdf8)](mailto:giovalgascom@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&colorA=363a4f&colorB=b7bdf8&logoColor=b7bdf8)](https://wa.me/55+48+988469618)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&colorA=363a4f&colorB=b7bdf8&logoColor=b7bdf8)](https://www.linkedin.com/in/giovalgas/)
-
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:giovalgascom@gmail.com)
+	[![WhatsApp](https://img.shields.io/badge/WhatsApp-333333?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/55+48+988469618)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/giovalgas/)
 ## ⭐ Stats
 
 <picture>
